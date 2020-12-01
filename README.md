@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Biblioteca Virtual" src="https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Protótipos/Vector.png"/> Biblioteca Virtual
+    <img alt="Biblioteca Virtual" src="https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Protótipos/Vector.png" width="35"/> Biblioteca Virtual
 </h1>
 
 <h4 align="center">
@@ -14,6 +14,13 @@
   <a href="https://img.shields.io/github/issues/Danilo-Js/Biblioteca-Virtual/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Danilo-Js/Biblioteca-Virtual">
   </a>
+  
+  <img alt="Repository forks" src="https://img.shields.io/github/forks/Danilo-Js/Biblioteca-Virtual">
+  
+  <img alt="Repository stars" src="https://img.shields.io/github/stars/Danilo-Js/Biblioteca-Virtual">
+  
+  <img alt="Repository license" src="https://img.shields.io/github/license/Danilo-Js/Biblioteca-Virtual">
+  
 </p>
 
 <p align="center" direction="row">
@@ -32,9 +39,20 @@
 </br>
 
 ## :rocket: Sobre o projeto
+Este repositório faz parte de um trabalho acadêmico apresentado à disciplina de Engenharia de Requisitos de Software, ministrada pelo professor Bruno Vilela na Universidade Federal do Espírito Santo.
 
+Esta biblioteca virtual faz parte de um sistema que tem como objetivo facilitar o acesso a livros para estudantes e amantes de leitura, além de apoiar aos escritores permitindo que lancem seus livros no sistema sem a intermediação de uma editora.
 
 ## :information_source: Diretórios
+:file_folder: Documentos
+* [ATA da Reunião](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/ATA%20da%20reuniao.pdf)
+* [Entrevista](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/Entrevista.pdf)
+* [Análise de Requisitos](https://google.com)
+
+:black_joker: [Protótipos](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Protótipos)
+
+:page_with_curl: [Questionário](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Questionário)
+
 
 ## :memo: Licença
 Este projeto está com a licença MIT. [Clique aqui](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/master/LICENSE) para vê-la.
