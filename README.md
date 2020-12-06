@@ -26,7 +26,8 @@
 <p align="center" direction="row">
   <a href="#rocket-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-diretórios">Diretórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#busts_in_silhouette-adquira-este-repositório-e-contribua">Adquira este repositório e contribua</a>
 </p>
 
 </br>
@@ -44,7 +45,7 @@ Este repositório faz parte de um trabalho acadêmico apresentado à disciplina 
 Esta biblioteca virtual faz parte de um sistema que tem como objetivo facilitar o acesso a livros para estudantes e amantes de leitura, além de apoiar aos escritores permitindo que lancem seus livros no sistema sem a intermediação de uma editora.
 
 ## :information_source: Diretórios
-:file_folder: Documentos
+:file_folder: [Documentos](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Documentos)
 * [ATA da Reunião](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/ATA%20da%20reuniao.pdf)
 * [Entrevista](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/Entrevista.pdf)
 * [Análise de Requisitos](https://google.com)
@@ -52,6 +53,17 @@ Esta biblioteca virtual faz parte de um sistema que tem como objetivo facilitar 
 :black_joker: [Protótipos](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Protótipos)
 
 :page_with_curl: [Questionário](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Questionário)
+
+## :busts_in_silhouette: Adquira este repositório e contribua
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/Danilo-Js/Biblioteca-Virtual.git
+
+# Edite o que preferir
+
+# Faça um Pull Request
+```
 
 
 ## :memo: Licença
