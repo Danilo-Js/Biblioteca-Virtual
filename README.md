@@ -27,7 +27,7 @@
   <a href="#rocket-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-diretórios">Diretórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#busts_in_silhouette-adquira-este-repositório-e-contribua">Adquira este repositório e contribua</a>
+  <a href="#busts_in_silhouette-baixe-este-projeto">Baixe este projeto</a>
 </p>
 
 </br>
@@ -54,15 +54,13 @@ Esta biblioteca virtual faz parte de um sistema que tem como objetivo facilitar 
 
 :page_with_curl: [Questionário](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Questionário)
 
-## :busts_in_silhouette: Adquira este repositório e contribua
+## :busts_in_silhouette: Baixe este projeto
 
 ```bash
 # Clone o repositório
 $ git clone https://github.com/Danilo-Js/Biblioteca-Virtual.git
-
-# Edite o que preferir
-
-# Faça um Pull Request
+# Baixe os arquivos atualizados
+$ git pull
 ```
 
 
