@@ -48,7 +48,7 @@ Esta biblioteca virtual faz parte de um sistema que tem como objetivo facilitar 
 :file_folder: [Documentos](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Documentos)
 * [ATA da Reunião](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/ATA%20da%20reuniao.pdf)
 * [Entrevista](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/Entrevista.pdf)
-* [Análise de Requisitos](https://google.com)
+* [Documento principal](https://github.com/Danilo-Js/Biblioteca-Virtual/blob/main/Documentos/Documento%20principal.pdf)
 
 :black_joker: [Protótipos](https://github.com/Danilo-Js/Biblioteca-Virtual/tree/main/Protótipos)
 
